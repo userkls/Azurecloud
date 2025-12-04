@@ -1,8 +1,0 @@
-## Core Concept
-Virtual machine: A software-based environment that acts like a physical computer.
-
-Host machine: The physical computer providing resources (CPU, memory, storage).
-
-Guest machine: The virtualized system running inside the host, with its own OS and apps.
-
-Isolation: Each VM is sandboxed, meaning it runs independently without interfering with others.
