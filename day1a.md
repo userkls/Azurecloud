@@ -26,3 +26,13 @@ Host machine: The physical computer providing resources (CPU, memory, storage).
 Guest machine: The virtualized system running inside the host, with its own OS and apps.
 
 Isolation: Each VM is sandboxed, meaning it runs independently without interfering with others.
+
+## API
+An API (Application Programming Interface) is a set of rules and tools that allows different software applications to communicate with each other. It acts as a bridge, enabling one program to access the functionality or data of another without needing to understand its internal workings.
+
+### Core Idea
+Interface between software: Just like a user interface connects people to computers, an API connects software systems.
+
+Rules and protocols: Defines how requests and responses should be structured.
+
+Abstraction: Developers don’t need to know the internal code—only how to interact with the API.
