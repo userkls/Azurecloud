@@ -1,2 +1,0 @@
-# Azurecloud
-Azure
