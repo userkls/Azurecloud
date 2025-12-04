@@ -35,4 +35,17 @@ Interface between software: Just like a user interface connects people to comput
 
 Rules and protocols: Defines how requests and responses should be structured.
 
-Abstraction: Developers don’t need to know the internal code—only how to interact with the API.
+
+
+## Regions
+
+Regions in cloud computing refer to geographic locations where cloud providers have data centers. Each region contains multiple data centers.
+
+## Availability Zones
+
+Availability Zones are isolated locations within a region that have their own power, cooling, and networking. They are designed to provide high availability and fault tolerance.
+
+Availability Zones are isolated groups of datacenters within a cloud region, designed to provide high availability, fault tolerance, and disaster recovery. Each zone has independent power, cooling, and networking, so if one fails, others continue to support workload
+
+
+
