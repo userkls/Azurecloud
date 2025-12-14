@@ -6,9 +6,9 @@ IP address represent as 4 bytes, example: 128.64.32.16
 1 byte = 8 bit 
 
 ## 8bit 
-2^7  2^6  2^5  2^4  2^3  2^2  2^1  2^0
+2^7 _  2^6 _  2^5 _  2^4 _  2^3 _  2^2 _  2^1 _  2^0 _
 
-_     _    _    _    _    _    _    _  |.
+
 
 ### IP address example
 128.64.32.16
