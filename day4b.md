@@ -1,13 +1,13 @@
 ## IP Address
 IP adress is a unique ID for each device to connect over a internet
 
-IP address represent as 4 bytes (32 bits)
+IP address represent as 4 bytes, example: 128.64.32.16 
 
 1 byte = 8 bit 
 
 ## 8bit 
 2^7  2^6  2^5  2^4  2^3  2^2  2^1  2^0
-_     _    _    _    _    _    _    _
+_     _    _    _    _    _    _    _  |.
 
 ### IP address example
 128.64.32.16
@@ -19,7 +19,7 @@ _ _ _ _ _ _ _ _ | _ _ _ _ _ _ _ _ | _ _ _ _ _ _ _ _ | _ _ _ _ _ _ _ _ |.
 0 1 0 0 0 0 0 0   0 0 1 0 0 0 0 0   0 0 0 1 0 0 0 0   0 0 0 0 1 0 0 0
 
 
-### IP address example
+### IP address example (total 32 bits)
 ### 192.64.32.16
 
 192 how to convert this into binary form
